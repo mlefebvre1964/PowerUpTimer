@@ -1,0 +1,61 @@
+C:\Users\mlefeb\documents\visual studio 2010\Projects\PowerUpTimer\PowerUpTimer\bin\Release\PowerUpTimer.exe
+C:\Users\mlefeb\documents\visual studio 2010\Projects\PowerUpTimer\PowerUpTimer\bin\Release\PowerUpTimer.pdb
+C:\Users\mlefeb\documents\visual studio 2010\Projects\PowerUpTimer\PowerUpTimer\bin\Release\PowerUpTimer.xml
+C:\Users\mlefeb\documents\visual studio 2010\Projects\PowerUpTimer\PowerUpTimer\obj\x86\Release\PowerUpTimer.frmPowerUpTimed.resources
+C:\Users\mlefeb\documents\visual studio 2010\Projects\PowerUpTimer\PowerUpTimer\obj\x86\Release\PowerUpTimer.Resources.resources
+C:\Users\mlefeb\documents\visual studio 2010\Projects\PowerUpTimer\PowerUpTimer\obj\x86\Release\PowerUpTimer.vbproj.GenerateResource.Cache
+C:\Users\mlefeb\documents\visual studio 2010\Projects\PowerUpTimer\PowerUpTimer\obj\x86\Release\PowerUpTimer.exe
+C:\Users\mlefeb\documents\visual studio 2010\Projects\PowerUpTimer\PowerUpTimer\obj\x86\Release\PowerUpTimer.xml
+C:\Users\mlefeb\documents\visual studio 2010\Projects\PowerUpTimer\PowerUpTimer\obj\x86\Release\PowerUpTimer.pdb
+H:\Tools\CPUSETUP\Software Library\VB.NET Retina Development\PowerUpTimer - Copy\PowerUpTimer\obj\x86\Release\PowerUpTimer.exe
+H:\Tools\CPUSETUP\Software Library\VB.NET Retina Development\PowerUpTimer - Copy\PowerUpTimer\obj\x86\Release\PowerUpTimer.xml
+H:\Tools\CPUSETUP\Software Library\VB.NET Retina Development\PowerUpTimer - Copy\PowerUpTimer\obj\x86\Release\PowerUpTimer.pdb
+C:\PowerUpTimer - Copy\PowerUpTimer\bin\Release\PowerUpTimer.exe
+C:\PowerUpTimer - Copy\PowerUpTimer\bin\Release\PowerUpTimer.pdb
+C:\PowerUpTimer - Copy\PowerUpTimer\bin\Release\PowerUpTimer.xml
+C:\PowerUpTimer - Copy\PowerUpTimer\bin\Release\Microsoft.VisualBasic.PowerPacks.dll
+C:\PowerUpTimer - Copy\PowerUpTimer\bin\Release\Microsoft.VisualBasic.PowerPacks.xml
+C:\PowerUpTimer - Copy\PowerUpTimer\obj\x86\Release\PowerUpTimer.frmPowerUpTimed.resources
+C:\PowerUpTimer - Copy\PowerUpTimer\obj\x86\Release\PowerUpTimer.Resources.resources
+C:\PowerUpTimer - Copy\PowerUpTimer\obj\x86\Release\PowerUpTimer.vbproj.GenerateResource.Cache
+C:\PowerUpTimer - Copy\PowerUpTimer\obj\x86\Release\PowerUpTimer.exe
+C:\PowerUpTimer - Copy\PowerUpTimer\obj\x86\Release\PowerUpTimer.xml
+C:\PowerUpTimer - Copy\PowerUpTimer\obj\x86\Release\PowerUpTimer.pdb
+C:\PowerUpTimer\PowerUpTimer\bin\Release\PowerUpTimer.exe
+C:\PowerUpTimer\PowerUpTimer\bin\Release\PowerUpTimer.pdb
+C:\PowerUpTimer\PowerUpTimer\bin\Release\PowerUpTimer.xml
+C:\PowerUpTimer\PowerUpTimer\bin\Release\Microsoft.VisualBasic.PowerPacks.dll
+C:\PowerUpTimer\PowerUpTimer\bin\Release\Microsoft.VisualBasic.PowerPacks.xml
+C:\PowerUpTimer\PowerUpTimer\obj\x86\Release\PowerUpTimer.frmPowerUpTimed.resources
+C:\PowerUpTimer\PowerUpTimer\obj\x86\Release\PowerUpTimer.Resources.resources
+C:\PowerUpTimer\PowerUpTimer\obj\x86\Release\PowerUpTimer.vbproj.GenerateResource.Cache
+C:\PowerUpTimer\PowerUpTimer\obj\x86\Release\PowerUpTimer.exe
+C:\PowerUpTimer\PowerUpTimer\obj\x86\Release\PowerUpTimer.xml
+C:\PowerUpTimer\PowerUpTimer\obj\x86\Release\PowerUpTimer.pdb
+C:\Users\admin1\Desktop\PowerUpTimer\PowerUpTimer\bin\Release\PowerUpTimer.exe
+C:\Users\admin1\Desktop\PowerUpTimer\PowerUpTimer\bin\Release\PowerUpTimer.pdb
+C:\Users\admin1\Desktop\PowerUpTimer\PowerUpTimer\bin\Release\PowerUpTimer.xml
+C:\Users\admin1\Desktop\PowerUpTimer\PowerUpTimer\bin\Release\Microsoft.VisualBasic.PowerPacks.dll
+C:\Users\admin1\Desktop\PowerUpTimer\PowerUpTimer\bin\Release\Microsoft.VisualBasic.PowerPacks.xml
+C:\Users\admin1\Desktop\PowerUpTimer\PowerUpTimer\obj\x86\Release\PowerUpTimer.frmPowerUpTimed.resources
+C:\Users\admin1\Desktop\PowerUpTimer\PowerUpTimer\obj\x86\Release\PowerUpTimer.Resources.resources
+C:\Users\admin1\Desktop\PowerUpTimer\PowerUpTimer\obj\x86\Release\PowerUpTimer.vbproj.GenerateResource.cache
+C:\Users\admin1\Desktop\PowerUpTimer\PowerUpTimer\obj\x86\Release\PowerUpTimer.vbproj.CoreCompileInputs.cache
+C:\Users\admin1\Desktop\PowerUpTimer\PowerUpTimer\obj\x86\Release\PowerUpTimer.vbproj.CopyComplete
+C:\Users\admin1\Desktop\PowerUpTimer\PowerUpTimer\obj\x86\Release\PowerUpTimer.exe
+C:\Users\admin1\Desktop\PowerUpTimer\PowerUpTimer\obj\x86\Release\PowerUpTimer.xml
+C:\Users\admin1\Desktop\PowerUpTimer\PowerUpTimer\obj\x86\Release\PowerUpTimer.pdb
+H:\Tools\CPUSETUP\Software Library\VB.NET Retina Development\PowerUpTimer Update\PowerUpTimer\obj\x86\Release\PowerUpTimer.exe
+H:\Tools\CPUSETUP\Software Library\VB.NET Retina Development\PowerUpTimer Update\PowerUpTimer\obj\x86\Release\PowerUpTimer.xml
+H:\Tools\CPUSETUP\Software Library\VB.NET Retina Development\PowerUpTimer Update\PowerUpTimer\obj\x86\Release\PowerUpTimer.pdb
+C:\Users\mlefebvre\Desktop\PowerUpTimer Update\PowerUpTimer\bin\Release\PowerUpTimer.exe
+C:\Users\mlefebvre\Desktop\PowerUpTimer Update\PowerUpTimer\bin\Release\PowerUpTimer.pdb
+C:\Users\mlefebvre\Desktop\PowerUpTimer Update\PowerUpTimer\bin\Release\PowerUpTimer.xml
+C:\Users\mlefebvre\Desktop\PowerUpTimer Update\PowerUpTimer\bin\Release\Microsoft.VisualBasic.PowerPacks.dll
+C:\Users\mlefebvre\Desktop\PowerUpTimer Update\PowerUpTimer\bin\Release\Microsoft.VisualBasic.PowerPacks.xml
+C:\Users\mlefebvre\Desktop\PowerUpTimer Update\PowerUpTimer\obj\x86\Release\PowerUpTimer.frmPowerUpTimed.resources
+C:\Users\mlefebvre\Desktop\PowerUpTimer Update\PowerUpTimer\obj\x86\Release\PowerUpTimer.Resources.resources
+C:\Users\mlefebvre\Desktop\PowerUpTimer Update\PowerUpTimer\obj\x86\Release\PowerUpTimer.vbproj.GenerateResource.Cache
+C:\Users\mlefebvre\Desktop\PowerUpTimer Update\PowerUpTimer\obj\x86\Release\PowerUpTimer.exe
+C:\Users\mlefebvre\Desktop\PowerUpTimer Update\PowerUpTimer\obj\x86\Release\PowerUpTimer.xml
+C:\Users\mlefebvre\Desktop\PowerUpTimer Update\PowerUpTimer\obj\x86\Release\PowerUpTimer.pdb

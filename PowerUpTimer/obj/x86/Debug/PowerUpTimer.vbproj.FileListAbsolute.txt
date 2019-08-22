@@ -1,0 +1,9 @@
+C:\Users\mlefeb\documents\visual studio 2010\Projects\PowerUpTimer\PowerUpTimer\bin\Debug\PowerUpTimer.exe
+C:\Users\mlefeb\documents\visual studio 2010\Projects\PowerUpTimer\PowerUpTimer\bin\Debug\PowerUpTimer.pdb
+C:\Users\mlefeb\documents\visual studio 2010\Projects\PowerUpTimer\PowerUpTimer\bin\Debug\PowerUpTimer.xml
+C:\Users\mlefeb\documents\visual studio 2010\Projects\PowerUpTimer\PowerUpTimer\obj\x86\Debug\PowerUpTimer.frmPowerUpTimed.resources
+C:\Users\mlefeb\documents\visual studio 2010\Projects\PowerUpTimer\PowerUpTimer\obj\x86\Debug\PowerUpTimer.Resources.resources
+C:\Users\mlefeb\documents\visual studio 2010\Projects\PowerUpTimer\PowerUpTimer\obj\x86\Debug\PowerUpTimer.vbproj.GenerateResource.Cache
+C:\Users\mlefeb\documents\visual studio 2010\Projects\PowerUpTimer\PowerUpTimer\obj\x86\Debug\PowerUpTimer.exe
+C:\Users\mlefeb\documents\visual studio 2010\Projects\PowerUpTimer\PowerUpTimer\obj\x86\Debug\PowerUpTimer.xml
+C:\Users\mlefeb\documents\visual studio 2010\Projects\PowerUpTimer\PowerUpTimer\obj\x86\Debug\PowerUpTimer.pdb
